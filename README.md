@@ -5,4 +5,4 @@ Just copy & paste the prompt in `GPT-Prompt PsyPeerReviewer.txt` in your GPT and
 
 
 ---
-If you find this useful, please don't forget to star this git and to thumb up the [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7142223823503839232/) 👍🙏
+If you find this useful, please don't forget to star this git and to thumb up the [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7142223823503839232/) 👍
